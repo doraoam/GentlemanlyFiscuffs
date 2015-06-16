@@ -13,3 +13,7 @@ EditorBuildSettings:
     path: Assets/Scence/StageSelect.unity
   - enabled: 1
     path: Assets/Scence/CharacterSelection.unity
+  - enabled: 1
+    path: Assets/Scence/Multiplayer.unity
+  - enabled: 1
+    path: Assets/Scence/TwoPlayerStage.unity

@@ -11,7 +11,6 @@ public class NextButtonCharacterSelection : MonoBehaviour
 
     }
 
-
     public void Next()
     {
         Application.LoadLevel(1);
